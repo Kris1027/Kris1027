@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kris</h1>
+<h1 align="center">Hi 👋 I'm Kris</h1>
 <h3 align="center">A chill learner on the path to becoming a frontend developer from Poland living in the Netherlands</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krzysztof-obarzanek-6b8803254) 
