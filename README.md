@@ -1,5 +1,5 @@
 <h1 align="center">Krzysztof Obarzanek</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">JavaScript Developer</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/krzysztof-obarzanek-6b8803254">
