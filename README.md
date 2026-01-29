@@ -1,40 +1,98 @@
-<h1 align="center">Krzysztof Obarzanek</h1>
-<h3 align="center">Software Developer</h3>
-
-<div align="center">
-  <a href="https://linkedin.com/in/krzysztof-obarzanek-6b8803254">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.techkris.eu/">
-    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=files&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
-
-<br/>
-
-<h2 align="center">Tech Stack</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/expo/ffffff" alt="expo" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" alt="astro" width="40" height="40"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kris1027&theme=default&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kris1027&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-</div>
+# Hi, I'm Krzysztof Obarzanek                                                                                                                                 
+                                                                                                                                                                
+  **Software Developer** based in Europe, building modern web applications.                                                                                     
+                                                                                                                                                                
+  <p>                                                                                                                                                           
+  <a href="https://linkedin.com/in/krzysztof-obarzanek-6b8803254"><img                                                                                          
+  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>                                       
+  <a href="https://techkris.eu/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>      
+  </p>                               
+                                                                                                                                                                
+  ---                                                                                                                                                           
+                                                                                                                                                                
+  ### Tech Stack                                                                                                                                                
+                                                                                                                                                                
+  <p><strong>Languages</strong><br>                                                                                                                             
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>                                               
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>                                                  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>                                
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>                                
+  </p>                                                                                                                                                          
+                                                                                                                                                                
+  <p><strong>Frontend</strong><br>                                                                                                                              
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>                                               
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>                                            
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Astro"/>                                               
+  <img src="https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack"/>                                    
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>                                   
+  <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>                                       
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS"/>                                                  
+  </p>                                                                                                                                                          
+                                                                                                                                                                
+  <p><strong>Mobile</strong><br>                                                                                                                                
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>                                 
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>                                                  
+  <img src="https://img.shields.io/badge/Telegram_Mini_Apps-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>                            
+  </p>                                                                                                                                                          
+                                                                                                                                                                
+  <p><strong>Backend</strong><br>                                                                                                                               
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>                                         
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>                                            
+  <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" alt="Express"/>                                            
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS"/>                                             
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>                                         
+  <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>                                              
+  </p>                                                                                                                                                          
+                                                                                                                                                                
+  <p><strong>Databases</strong><br>                                                                                                                             
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>                                
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>                                         
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>                                            
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>                                      
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>                                      
+  </p>                                                                                                                                                          
+                                                                                                                                                                
+  <p><strong>Web3</strong><br>                                                                                                                                  
+  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" alt="Ethers.js"/>                                    
+  <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white" alt="Web3"/>                                               
+  </p>                                                                                                                                                          
+                                                                                                                                                                
+  <p><strong>Testing</strong><br>                                                                                                                               
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>                                                  
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"/>                                         
+  <img src="https://img.shields.io/badge/Supertest-000?style=flat-square&logo=node.js&logoColor=white" alt="Supertest"/>                                        
+  </p>                                                                                                                                                          
+                                                                                                                                                                
+  <p><strong>DevOps & Tools</strong><br>                                                                                                                        
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>                                                     
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>                                            
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>                                         
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>                                
+  </p>                                                                                                                                                          
+                                                                                                                                                                
+  <p><strong>AI & Editors</strong><br>                                                                                                                          
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>                               
+  <img src="https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>                                               
+  </p>                                                                              
+                                                                                                                                                                
+  ---                                                                                                                                                           
+                                                                                                                                                                
+  ### GitHub Stats                                                                                                                                              
+                                                                                                                                                                
+<p>                                                                                                                                                           
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kris1027&theme=github_dark" height="165"/>                               
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kris1027&theme=github_dark" height="165"/>                  
+  </p>                                                                                                                                                          
+  <p>                                                                                                                                                           
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kris1027&theme=github_dark" height="165"/>                
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kris1027&theme=github_dark&utcOffset=1" height="165"/>         
+  </p>                                                                                                                                                          
+                                                                                                                                                                
+  ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kris1027&theme=github_dark)
+                                                                                                                                                                
+  ---                                                                                                                                                           
+                                                                                                                                                                
+  ### Contact                                                                                                                                                   
+                                                                                                                                                                
+  - **Portfolio:** [techkris.eu](https://techkris.eu/)                                                                                                          
+  - **LinkedIn:** [Krzysztof Obarzanek](https://linkedin.com/in/krzysztof-obarzanek-6b8803254)  
