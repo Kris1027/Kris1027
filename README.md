@@ -1,11 +1,11 @@
 <h1 align="center">Krzysztof Obarzanek</h1>
-<h3 align="center">JavaScript Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/krzysztof-obarzanek-6b8803254">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.kris1027.pl/">
+  <a href="https://www.techkris.eu/">
     <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=files&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
