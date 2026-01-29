@@ -1,14 +1,34 @@
-# Hi, I'm Krzysztof Obarzanek                                                                                                                                 
+<h1 align="center">Hi, I'm Krzysztof Obarzanek</h1>                                                                                                                                                      
+                                                                                                                                                                                                           
+  <p align="center">                                                                                                                                                                                       
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Developer;React+%7C+Next.js+%7C+NestJS;Building+Modern+Web+Apps"
+   alt="Typing SVG" />                                                                                                                                                                                     
+  </p>                                                                                                                                                                                                     
+                                                                                                                                                                                                           
+  <p align="center">                                                                                                                                                                                       
+  <a href="https://linkedin.com/in/krzysztof-obarzanek-6b8803254"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>           
+  <a href="https://techkris.eu/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>                                               
+  </p>                                    
                                                                                                                                                                 
-  **Software Developer** based in Europe, building modern web applications.                                                                                     
-                                                                                                                                                                
-  <p>                                                                                                                                                           
-  <a href="https://linkedin.com/in/krzysztof-obarzanek-6b8803254"><img                                                                                          
-  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>                                       
-  <a href="https://techkris.eu/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>      
-  </p>                               
-                                                                                                                                                                
-  ---                                                                                                                                                           
+  ---   
+  ### About Me                                                                                                                                                                                 
+  ```typescript
+const krzysztof = {
+       location: "Europe",
+       roles: ["Frontend Developer", "Backend Developer", "Mobile Developer"],
+       currentFocus: "Building scalable web applications with React & NestJS",
+       funFact: "I love turning coffee into code"
+};
+```
+  ---   
+  ### Currently Working On
+  
+  <a href="https://github.com/Kris1027/nestjs-ecommerce">
+  <img src="https://img.shields.io/badge/NestJS_E--commerce-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS E-commerce"/>
+  </a>
+  
+ ##### Backend API for a full-stack e-commerce platform. Built with NestJS, TypeScript, Prisma, and PostgreSQL. Features include product management, categories, user authentication, and more.  
+  ---
                                                                                                                                                                 
   ### Tech Stack                                                                                                                                                
                                                                                                                                                                 
