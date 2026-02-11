@@ -20,16 +20,42 @@ const krzysztof = {
        funFact: "I love turning coffee into code"
 };
 ```
-  ---   
-  ### Currently Working On
-  
-  <a href="https://github.com/Kris1027/nestjs-ecommerce">
-  <img src="https://img.shields.io/badge/NestJS_E--commerce-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS E-commerce"/>
-  </a>
-  
- ##### Backend API for a full-stack e-commerce platform. Built with NestJS, TypeScript, Prisma, and PostgreSQL. Features include product management, categories, user authentication, and more.  
-  ---
-                                                                                                                                                                
+---
+### Currently Working On
+
+<a href="https://github.com/users/Kris1027/projects/7">
+  <img src="https://img.shields.io/badge/Fullstack_E--commerce-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fullstack E-commerce"/>
+</a>
+
+**Full-stack e-commerce platform** built with NestJS, React, and Next.js, designed with modern best practices and featuring a scalable API, admin management panel, and customer-facing storefront.
+
+---
+<a href="https://github.com/Kris1027/nestjs-ecommerce">
+  <img src="https://img.shields.io/badge/NestJS_E--commerce_API-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS E-commerce API"/>
+</a>
+
+**Backend API** built with **NestJS**, **TypeScript**, **Prisma**, and **PostgreSQL**.  
+**Features:** authentication, user management, products, categories, and scalable architecture patterns.
+
+---
+<a href="https://github.com/Kris1027/react-ecommerce-admin">
+  <img src="https://img.shields.io/badge/React_E--commerce_Admin-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React E-commerce Admin"/>
+</a>
+
+**Admin dashboard** built with **React** and **TypeScript**.  
+Focused on clean UI, modular structure, and scalable state management.
+
+---
+<a href="https://github.com/Kris1027/nextjs-ecommerce-store">
+  <img src="https://img.shields.io/badge/Next.js_E--commerce_Store-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js E-commerce Store"/>
+</a>
+
+**Customer-facing storefront** built with **Next.js** and **TypeScript**.  
+Optimized for performance, SEO, and seamless user experience.
+
+---
+
+
   ### Tech Stack                                                                                                                                                
                                                                                                                                                                 
   <p><strong>Languages</strong><br>                                                                                                                             
