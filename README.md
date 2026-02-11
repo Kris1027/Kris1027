@@ -42,7 +42,7 @@ const krzysztof = {
   <img src="https://img.shields.io/badge/React_E--commerce_Admin-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React E-commerce Admin"/>
 </a>
 
-**Admin dashboard** built with **React** and **TypeScript**.  
+**Admin dashboard** built with **Vite**, **React** and **TypeScript**.  
 Focused on clean UI, modular structure, and scalable state management.
 
 ---
