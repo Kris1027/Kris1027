@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Krzysztof Obarzanek</h1>                                                                                                                                                      
                                                                                                                                                                                                            
   <p align="center">                                                                                                                                                                                       
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Developer;React+%7C+Next.js+%7C+NestJS;Building+Modern+Web+Apps"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%7C+Next.js+%7C+NestJS;Building+Modern+Web+Apps"
    alt="Typing SVG" />                                                                                                                                                                                     
   </p>                                                                                                                                                                                                     
                                                                                                                                                                                                            
@@ -17,7 +17,6 @@ const krzysztof = {
        location: "Europe",
        roles: ["Frontend Developer", "Backend Developer", "Mobile Developer"],
        currentFocus: "Building scalable web applications with React & NestJS",
-       funFact: "I love turning coffee into code"
 };
 ```
 ---
