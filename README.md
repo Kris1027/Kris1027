@@ -14,7 +14,7 @@
   ### About Me                                                                                                                                                                                 
   ```typescript
 const krzysztof = {
-       location: "Kraków, Poland",
+       location: "Cracow, Poland",
        roles: ["Frontend Developer", "Backend Developer", "Mobile Developer"],
        currentFocus: "Building scalable web applications with React & NestJS",
 };
